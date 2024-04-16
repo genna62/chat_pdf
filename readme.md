@@ -1,14 +1,14 @@
 1. Ollama 
-Running Ollama on your computer: https://ollama.com/
+Download and Run Ollama on your computer: https://ollama.com/
 
-2. Pull the models
+2. Pull the models from Ollama
 ```
 ollama pull mistral
 ollama pull llama2
 ollama pull gemma:7b
 ```
 
-3. Install Package
+3. Install Packages
 ```pip install -r requirements.txt```
 
 4. Run the app
